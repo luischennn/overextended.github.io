@@ -16,3 +16,7 @@ function lib.getNearbyPlayers(coords, maxDistance, includePlayer) end
 Return:
 
 * `number[]`
+
+|    ID   |       Ped     |     Coords    |
+| ------------- | ------------- | ------------- |
+| PlayerID  | PedID  | ["x", "y", "z"]  |
